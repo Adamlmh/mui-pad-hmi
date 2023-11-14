@@ -1,6 +1,6 @@
 简体中文 | [English](./README.en-US.md)
 
-<h1 align="center">MUI PAD HMI</h1>
+<h1 align="center">MUI PAD HMI Adam</h1>
 
 <div align="center">
   
